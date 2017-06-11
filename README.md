@@ -3,7 +3,7 @@
 # Prerequisite
 1. JDK 8 (lower version is also OK but I'm using JDK8)
 2. Maven 3.2.5 (May work with other versions as well)
-3. Internet connectio - It's required to download all necessary artifacts automatically.
+3. Internet connection - It's required to download all necessary artifacts automatically.
 4. Eclipse (Optional). it's required if you want to play around the code.
 
 # Steps involved
